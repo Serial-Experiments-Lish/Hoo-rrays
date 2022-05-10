@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch FifthItem",
+            "request": "launch",
+            "mainClass": "FifthItem",
+            "projectName": "harray_f376a8c2"
+        },
+        {
+            "type": "java",
+            "name": "Launch HowLarge",
+            "request": "launch",
+            "mainClass": "HowLarge",
+            "projectName": "harray_f376a8c2"
+        },
+        {
+            "type": "java",
+            "name": "Launch IndexOfInteger",
+            "request": "launch",
+            "mainClass": "IndexOfInteger",
+            "projectName": "harray_f376a8c2"
+        },
+        {
+            "type": "java",
+            "name": "Launch LastItem",
+            "request": "launch",
+            "mainClass": "LastItem",
+            "projectName": "harray_f376a8c2"
+        },
+        {
+            "type": "java",
+            "name": "Launch SumOfList",
+            "request": "launch",
+            "mainClass": "SumOfList",
+            "projectName": "harray_f376a8c2"
+        }
+    ]
+}
